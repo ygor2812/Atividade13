@@ -1,4 +1,4 @@
-// App.jsx
+
 import { AuthProvider } from './context/AuthContext'; 
 import Rotas from './routes';
 

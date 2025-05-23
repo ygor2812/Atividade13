@@ -1,5 +1,5 @@
 import React from "react";
-import styles from './carrinho.css';
+import styles from './carrinho.module.css';
 import { IoMdClose } from "react-icons/io";
 import plus from "../../../assets/plus.svg";
 import minus from "../../../assets/minus.svg";
